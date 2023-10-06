@@ -21,9 +21,6 @@
 
 ## GET IN TOUCH
 <p>Email</p>     
-<a>chirambo.emmanuel20@gmail.com</a>
 
-  
-- 
 
 
