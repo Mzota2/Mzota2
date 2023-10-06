@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @Mzota2
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development projects
-- Am also interested in software engineering
-- 📫 You can reach me through this email chirambo.emmanuel20@gmail.com
+# PORTIFOLIO
+## 👋 Hi, I’m Emmanuel Mzota
+  ` A Full-stack web developer`
+  ### MY INTERESTS 👀
+-   Web Development
+-   Web Designing
+-   Graphic Designing
+  
+  ### MY TOP SKILLS
+  #### Front-end
+  :: Javascript   
+  :: ReactJs     
+  :: Figma  
+  :: HTML  
+  :: CSS
+
+  #### Back-end
+  :: MongoDB   
+  :: Strapi CMS  
+  :: NodeJS
+
+## GET IN TOUCH
+<p>Email</p>     
+<a>chirambo.emmanuel20@gmail.com</a>
+
+  
+- 
 
 
