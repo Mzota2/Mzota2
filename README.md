@@ -1,10 +1,11 @@
-<h2> 👋 Hello, I’m Emmanuel Mzota </h2>
+<link href="style.css" rel="stylesheet"/>
+<h2>👋 Hello, I’m Emmanuel Mzota </h2>
 
 <h1> A Full Stack Web Developer </h1>
 
 I'm a passionate and self-taught web developer with proficiency in <br/> ReactJS, MongoDB, SASS, Figma and BootStrap. <br/> I'm delighted to join the developer community to solve real-world problems.
 
-<span style='background-color:darkgreen; padding:0.5em'>JOB STATUS</span> <span style='font-size:18px; '><bold>Open to New Job Opportunities</bold></span>   
+<span class='status' >JOB STATUS</span> <span style='font-size:18px; '><bold>Open to New Job Opportunities</bold></span>   
 
 ## SKILLS
 
